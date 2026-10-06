@@ -1,27 +1,27 @@
 # scaling-tribble
 
-### distortion1
+### distortion1 ⭐⭐⭐⭐⭐
 ```js
 const s = document.createElement("script");
 s.src = "https://nyeohijyul1.github.io/scaling-tribble/distortion.js";
 document.head.appendChild(s);
 ```
 
-### distortion2
+#### distortion2 ⭐⭐⭐
 ```js
 const s = document.createElement("script");
 s.src = "https://nyeohijyul1.github.io/scaling-tribble/distortion2.js";
 document.head.appendChild(s);
 ```
 
-### distortion3
+##### distortion3 ⭐
 ```js
 const s = document.createElement("script");
 s.src = "https://nyeohijyul1.github.io/scaling-tribble/distortion3.js";
 document.head.appendChild(s);
 ```
 
-### distortion4
+###### distortion4
 ```js
 const s = document.createElement("script");
 s.src = "https://nyeohijyul1.github.io/scaling-tribble/distortion4.js";
