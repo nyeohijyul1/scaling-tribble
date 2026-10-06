@@ -17,6 +17,6 @@ document.head.appendChild(s);
 ### distortion3
 ```js
 const s = document.createElement("script");
-s.src = "https://nyeohijyul1.github.io/scaling-tribble/distortion2.js";
+s.src = "https://nyeohijyul1.github.io/scaling-tribble/distortion3.js";
 document.head.appendChild(s);
 ```
