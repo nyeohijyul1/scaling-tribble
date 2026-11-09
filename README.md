@@ -1,3 +1,5 @@
+[test](https://nyeohijyul1.github.io/scaling-tribble/)
+
 # scaling-tribble
 
 ### distortion1 ⭐⭐⭐⭐⭐
